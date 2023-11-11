@@ -1,5 +1,5 @@
 # Bike Rent Dashboard - Final Project Analysis Data
-Proyek ini merupakan proyek akhir dari Dicoding kelas "Belajar Analisis Data Dengan Python" untuk menganalisis dan membuat dashboard dari dataset bike sharing. Dalam proyek ini, saya melakukan analisis berupa Data Wrangling, Exploratory Data Analysis, dan Visualisation Data. Saya juga membangun dashboard menggunakan streamlit yang dapat diakses melalui link ini. 
+Proyek ini merupakan proyek akhir dari Dicoding kelas "Belajar Analisis Data Dengan Python" untuk menganalisis dan membuat dashboard dari dataset bike sharing. Dalam proyek ini, saya melakukan analisis berupa Data Wrangling, Exploratory Data Analysis, dan Visualisation Data. Saya juga membangun dashboard menggunakan streamlit yang dapat diakses melalui [link](https://joy-bike-rental.streamlit.app/) ini. 
 
 # Screenshot
 ![Screenshot-1](https://github.com/ayuk13/submission_analisis_data/blob/b8d337f80840f284802e518d072e3908777942ab/screenshot/dashboard-1.png)
