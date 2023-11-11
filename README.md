@@ -2,10 +2,10 @@
 Proyek ini merupakan proyek akhir dari Dicoding kelas "Belajar Analisis Data Dengan Python" untuk menganalisis dan membuat dashboard dari dataset bike sharing. Dalam proyek ini, saya melakukan analisis berupa Data Wrangling, Exploratory Data Analysis, dan Visualisation Data. Saya juga membangun dashboard menggunakan streamlit yang dapat diakses melalui link ini. 
 
 # Screenshot
-![Screenshot-1](screenshot\dashboard-1.png)
-![Screenshot-2](screenshot\dashboard-2.png)
-![Screenshot-3](screenshot\dashboard-3.png)
-![Screenshot-4](screenshot\dashboard-4.png)
+![Screenshot-1](https://github.com/ayuk13/submission_analisis_data/blob/b8d337f80840f284802e518d072e3908777942ab/screenshot/dashboard-1.png)
+![Screenshot-2](https://github.com/ayuk13/submission_analisis_data/blob/b8d337f80840f284802e518d072e3908777942ab/screenshot/dashboard-2.png)
+![Screenshot-3](https://github.com/ayuk13/submission_analisis_data/blob/b8d337f80840f284802e518d072e3908777942ab/screenshot/dashboard-3.png)
+![Screenshot-4](https://github.com/ayuk13/submission_analisis_data/blob/b8d337f80840f284802e518d072e3908777942ab/screenshot/dashboard-4.png)
 
 ## Setup environment
 ```
